@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/features/linkbutton.tsx","./src/components/features/profile.tsx","./src/components/features/sociallinks.tsx","./src/components/ui/themetoggle.tsx","./src/data/profiledata.ts","./src/hooks/usetheme.ts"],"version":"5.9.3"}
